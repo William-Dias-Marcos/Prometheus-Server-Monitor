@@ -4,9 +4,7 @@
 
 Prometheus Server Monitor é um dashboard construído com o Grafana para monitoramento do desempenho do meu notebook pessoal. Ele coleta métricas utilizando o Prometheus e exibe visualizações detalhadas em tempo real.
 
- <p text  align="center">
-   ![image](https://github.com/user-attachments/assets/b61f6cec-af91-4552-96c5-965df845a2dd)
-</p>
+![image](https://github.com/user-attachments/assets/b61f6cec-af91-4552-96c5-965df845a2dd)
 
 ### 🛠 Tecnologias
 
